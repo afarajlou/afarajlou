@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
-### Hey 👋, I'm Reza
-<br/><br/>
-
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
