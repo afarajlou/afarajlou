@@ -36,4 +36,7 @@ Here are some ideas to get you started:
 </div>
 
 
+![image](https://github.com/rezaAdinepour/Fire-Detection/blob/main/Images/fire1.jpg)
+
+
 
