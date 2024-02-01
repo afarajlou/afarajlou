@@ -78,7 +78,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/parvvaresh/Autocorrect"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=parvvaresh&repo=Autocorrect&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RFMClustify"></a>
     <a href="https://github.com/parvvaresh/Handwriting-recognition"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=parvvaresh&repo=Handwriting-recognition&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RFMClustify"></a>
 
-Reza, [2/1/2024 6:34 PM]
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
