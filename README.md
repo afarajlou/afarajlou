@@ -87,17 +87,4 @@ Here are some ideas to get you started:
 
 
 
-## 🏆 Github
- &nbsp;
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=parvvaresh&show_icons=true&hide_border=true">
-<a href="https://github.com/parvvaresh">
-    <img src="https://github-stats-alpha.vercel.app/api?username=parvvaresh&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/parvvaresh/count.svg" />
-</p>
-
 
