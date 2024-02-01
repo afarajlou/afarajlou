@@ -41,19 +41,6 @@
 
 
 
-<details open> 
-<summary><h3><em>📕 My Top Projects</em></h3></summary>
-
-  <p align="left">
-    <a href="https://github.com/afarajlou/doublefilter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=parvvaresh&repo=face-mask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="VisualAIProjects"></a>
-    <a href="https://github.com/parvvaresh/spotify-recommendation-system"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=parvvaresh&repo=spotify-recommendation-system&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="TextAIHub"></a>
-    <a href="https://github.com/parvvaresh/Evaluation-of-machine-translation-by-NLP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=parvvaresh&repo=Evaluation-of-machine-translation-by-NLP&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ForecastAI"></a>
-    <a href="https://github.com/parvvaresh/ML-algorithms-from-Scratch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=parvvaresh&repo=ML-algorithms-from-Scratch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FraudDetectAI"></a>
-    <a href="https://github.com/parvvaresh/email-spam-detection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=parvvaresh&repo=email-spam-detection&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MountainCarRL"></a>
-    <a href="https://github.com/parvvaresh/Knowledge-Graph"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=parvvaresh&repo=Knowledge-Graph&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RFMClustify"></a>
-    <a href="https://github.com/parvvaresh/Practical-mini-projects-with-Python"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=parvvaresh&repo=Practical-mini-projects-with-Python&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RFMClustify"></a>
-    <a href="https://github.com/parvvaresh/Autocorrect"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=parvvaresh&repo=Autocorrect&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RFMClustify"></a>
-    <a href="https://github.com/parvvaresh/Handwriting-recognition"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=parvvaresh&repo=Handwriting-recognition&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RFMClustify"></a>
 
 
 </p>
