@@ -29,9 +29,9 @@ I'm currently exploring memory systems, efficient LLM inference, GPU computing, 
 
 Small educational experiments, with assumptions and limitations documented. These currently live in this public profile repository; they are not standalone repositories.
 
-- [CUDA learning lab](research/cuda-learning-lab/) — tiled matrix multiplication, MLP, attention, and memory-access models.
-- [LLM KV-memory model](research/llm-kv-memory-model/) — analytical inference-memory estimates.
-- [Cache locality lab](research/cache-locality-lab/) — cache-trace simulation and locality.
+- [CUDA learning lab](https://github.com/afarajlou/cuda-learning-lab) — tiled matrix multiplication, MLP, attention, and memory-access models.
+- [LLM inference systems](https://github.com/afarajlou/llm-inference-systems) — analytical inference-memory estimates.
+- [Computer architecture lab](https://github.com/afarajlou/computer-architecture-lab) — cache-trace simulation and locality.
 - [Parallel roofline notes](research/parallel-roofline-notes/) — compute-versus-bandwidth performance modeling.
 
 ### Technical background
